@@ -1,12 +1,6 @@
-# provider_example
+# Provider_SharedPrefences_Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Ejemplo de implementación de paquetes Provider y Shared Preferences para compartir informacion entre widgets y pantallas. Almacenamiento de datos locales de usuario.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
